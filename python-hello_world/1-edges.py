@@ -1,5 +1,5 @@
 word = "Holberton"
-print("First 3 letters: {}".format("Hol"))
-print("Last 2 letters: {}".format("on"))
-print("Middle word: {}".format("olberto"))
-
+word_first_3 = "Sch"
+word_last_2 = "ol"
+middle_word= "choo"
+print(word_first_3, word_last_2, middle_word)
