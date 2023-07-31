@@ -1,5 +1,4 @@
-from 0-sum
-import add
+add = __import__('0-sum').add
 
 print(add(1, 2))
 print(add(98, 0))
